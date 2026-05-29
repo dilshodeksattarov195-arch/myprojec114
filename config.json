@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerderify",
+        "uuid": 551418,
+        "checksum": "p8bek8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
